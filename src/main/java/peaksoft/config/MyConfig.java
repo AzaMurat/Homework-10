@@ -12,18 +12,4 @@ import peaksoft.animal.Rabbit;
 @ComponentScan(basePackages = "peaksoft")
 @PropertySource("classpath:application.properties")
 public class MyConfig {
-//    @Bean
-//    public Horse getHorse() {
-//        return new Horse();
-//    }
-
-//    @Bean
-//    public Rabbit getRabbit() {
-//        return new Rabbit();
-//    }
-
-//    @Bean
-//    public Person getPerson() {
-//        return new Person();
-//    }
 }
